@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "id" : "1",
-      "userName" : "Hassan Fathy",
-      "title" : "Learn HTML5",
-      "price" : "100",
-      "description" : "HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages." 
+      "id": "1",
+      "userName": "Hassan Fathy",
+      "title": "Learn HTML5",
+      "price": "100",
+      "description": "HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages."
     },
     {
-      "id" : "2",
-      "userName" : "Hassan Fathy",
-      "title" : "Learn CSS3",
-      "price" : "150",
-      "description" : "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
+      "id": "2",
+      "userName": "Hassan Fathy",
+      "title": "Learn CSS3",
+      "price": "150",
+      "description": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
     },
     {
-      "id" : "3",
-      "userName" : "Hassan Fathy",
-      "title" : "Learn JavaScript",
-      "price" : "200",
-      "description" : "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. "
+      "id": "3",
+      "userName": "Hassan Fathy",
+      "title": "Learn JavaScript",
+      "price": "200",
+      "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. "
     }
   ]
 }
